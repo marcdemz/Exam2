@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMoverExam", "FileMoverExam.csproj", "{3CA83ECB-2812-4291-BAA7-EE81466F65C5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{E1B88C9F-1A00-4587-A85B-DD783D6B3B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA83ECB-2812-4291-BAA7-EE81466F65C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA83ECB-2812-4291-BAA7-EE81466F65C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA83ECB-2812-4291-BAA7-EE81466F65C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA83ECB-2812-4291-BAA7-EE81466F65C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B88C9F-1A00-4587-A85B-DD783D6B3B1F}.Debug|Any CPU.ActiveCfg = Debug
+		{E1B88C9F-1A00-4587-A85B-DD783D6B3B1F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B10DD3-84EA-4200-A451-6A58DA60D0A4}
+	EndGlobalSection
+EndGlobal
